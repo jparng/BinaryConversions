@@ -1,0 +1,5 @@
+﻿  BinaryDecimalLab2.cpp
+C:\Users\Jerry Parng\Documents\Coding Stuff\Computer Organization\BinaryDecimalLab2\BinaryDecimalLab2.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Jerry Parng\Documents\Coding Stuff\Computer Organization\BinaryDecimalLab2\BinaryDecimalLab2.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jerry Parng\Documents\Coding Stuff\Computer Organization\BinaryDecimalLab2\BinaryDecimalLab2.cpp(26,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  BinaryDecimalLab2.vcxproj -> C:\Users\Jerry Parng\Documents\Coding Stuff\Computer Organization\BinaryDecimalLab2\Debug\BinaryDecimalLab2.exe
